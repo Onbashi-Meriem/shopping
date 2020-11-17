@@ -7,7 +7,7 @@
  * https://swiperjs.com/demos/
  * 
  */
-
+//
 document.addEventListener('DOMContentLoaded', function() {
   console.log('DOM ready');
 });
